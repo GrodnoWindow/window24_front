@@ -1,0 +1,46 @@
+[
+	{
+		"name": "profileOption",
+		"placeholder": "Выберете ваш профиль",
+		"label": "Профиль",
+		"options": [
+         {
+            "label": "2 камерный",
+            "value": "two_cameras",
+            "price": 10
+         },
+         {
+            "label": "3 камерный",
+            "value": "three_cameras",
+            "price": 12
+         },
+         {
+            "label": "4 камерный",
+            "value": "four_cameras",
+            "price": 14
+         }
+      ]
+	},
+	{
+		"name": "glazingOption",
+		"placeholder": "Выберете тип стеклопакета",
+		"label": "Стеклопакет",
+		"options": [
+         {
+            "label": "Самый дорогой",
+            "value": "rich",
+            "price": 6
+         },
+         {
+            "label": "Средний",
+            "value": "normal",
+            "price": 5
+         },
+         {
+            "label": "Самый дешёвый",
+            "value": "poor",
+            "price": 4
+         }
+      ]
+	}
+]

@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.blueGradient {
+	background: linear-gradient(90deg, #0352B1 0.12%, #89BEFF 100.91%);
+}
+
+@layer components {
+	html {
+		@apply text-primary;
+	}
+}

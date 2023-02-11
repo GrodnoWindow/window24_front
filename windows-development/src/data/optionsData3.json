@@ -1,0 +1,73 @@
+[
+  {
+    "name": "utoplenie",
+    "placeholder": "Выберите вид отопления",
+    "label": "Уплотнение",
+    "options": [
+      {
+        "label": "Rausel",
+        "value": "Rausel",
+        "price": 15
+      },
+      {
+        "label": "TPE",
+        "value": "TPE",
+        "price": 1
+      }
+    ]
+  },
+  {
+    "name": "shtapik",
+    "placeholder": "Выберите вид штапик",
+    "label": "Штапик",
+    "options": [
+      {
+        "label": "Круглый",
+        "value": "circle",
+        "price": 12
+      },
+      {
+        "label": "Вогнутый",
+        "value": "inv",
+        "price": 9
+      },
+      {
+        "label": "Фигурный",
+        "value": "figure",
+        "price": 7
+      },
+      {
+        "label": "Стандартный",
+        "value": "standart",
+        "price": 5
+      }
+    ]
+  },
+  {
+    "name": "podokonnik",
+    "placeholder": "Выберите тип подоконника",
+    "label": "Подоконник",
+    "options": [
+      {
+        "label": "1",
+        "value": "1",
+        "price": 12
+      },
+      {
+        "label": "2",
+        "value": "2",
+        "price": 9
+      },
+      {
+        "label": "3",
+        "value": "3",
+        "price": 7
+      },
+      {
+        "label": "4",
+        "value": "4",
+        "price": 5
+      }
+    ]
+  }
+]

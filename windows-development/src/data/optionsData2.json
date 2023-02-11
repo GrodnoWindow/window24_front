@@ -1,0 +1,38 @@
+[
+	{
+		"name": "windowsillOption",
+		"placeholder": "Нужен ли вам подоконник",
+		"label": "Подоконник",
+		"options": [
+         {
+            "label": "Да",
+            "value": "windowsill_Yes",
+            "price": 15
+         },
+         {
+            "label": "Нет",
+            "value": "windowsill_No",
+            "price": 1
+         }
+         
+      ]
+	},
+	{
+		"name": "controlOption",
+		"placeholder": "Нужен ли вам ограничитель",
+		"label": "Ограничитель открывания",
+		"options": [
+         {
+            "label": "Да",
+            "value": "controller_Yes",
+            "price": 2
+         },
+         {
+            "label": "Нет",
+            "value": "controller_No",
+            "price": 0
+         }
+         
+      ]
+	}
+]

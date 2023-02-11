@@ -1,0 +1,117 @@
+[
+   {
+      "type": "SINGLE-EMPTY",
+      "image": "/images/window-renders/window-single-empty.png",
+      "imposted": false
+   },
+   {
+      "type": "SINGLE-LEFT-TURNED",
+      "image": "/images/window-renders/window-single-from-left-turned.png",
+      "imposted": false
+   },
+   {
+      "type": "SINGLE-RIGHT-TURNED",
+      "image": "/images/window-renders/window-single-from-right-turned.png",
+      "imposted": false
+   },
+   {
+      "type": "SINGLE-RIGHT-TURNED-FOLDED",
+      "image": "/images/window-renders/window-single-from-right-turned-folded.png",
+      "imposted": false
+   },
+   {
+      "type": "SINGLE-LEFT-TURNED-FOLDED",
+      "image": "/images/window-renders/window-single-from-left-turned-folded.png",
+      "imposted": false
+   },
+   {
+      "type": "DOOR-RIGHT-TURNED",
+      "image": "/images/window-renders/door-from-right-turned.png",
+      "imposted": false
+   },
+   {
+      "type": "DOOR-RIGHT-TURNED-FOLDED",
+      "image": "/images/window-renders/door-from-right-turned-folded.png",
+      "imposted": false
+   },
+   {
+      "type": "DOOR-LEFT-TURNED-FOLDED",
+      "image": "/images/window-renders/door-from-left-turned-folded.png",
+      "imposted": false
+   },
+   {
+      "type": "DOOR-LEFT-TURNED",
+      "image": "/images/window-renders/door-from-left-turned.png",
+      "imposted": false
+   },
+   {
+      "type": "HORIZONTAL-IMPOST",
+      "image": "/images/window-renders/impost-horizontal.png",
+      "imposted": true
+   },
+   {
+      "type": "HORIZONTAL-IMPOST-TOP-TURNED",
+      "image": "/images/window-renders/impost-horizontal-top-turned.png",
+      "imposted": true
+   },
+   {
+      "type": "HORIZONTAL-IMPOST-BOTTOM-TURNED",
+      "image": "/images/window-renders/impost-horizontal-bottom-turned.png",
+      "imposted": true
+   },
+   {
+      "type": "HORIZONTAL-IMPOST-BOTTOM-TURNED-FOLDED",
+      "image": "/images/window-renders/impost-horizontal-bottom-turned-folded.png",
+      "imposted": true
+   },
+   {
+      "type": "HORIZONTAL-IMPOST-TOP-TURNED-FOLDED",
+      "image": "/images/window-renders/impost-horizontal-top-turned-folded.png",
+      "imposted": true
+   },
+   {
+      "type": "HORIZONTAL-IMPOST-BOTTOM-TURNED-TOP-TURNED-FOLDED",
+      "image": "/images/window-renders/impost-horizontal-top-turned-bottom-turned-folded.png",
+      "imposted": true
+   },
+   {
+      "type": "HORIZONTAL-IMPOST-BOTTOM-TURNED-FOLDED-TOP-TURNED-FOLDED",
+      "image": "/images/window-renders/impost-horizontal-top-turned-folded-bottom-turned-folded.png",
+      "imposted": true
+   },
+   {
+      "type": "VERTICAL-IMPOST",
+      "image": "/images/window-renders/impost-vertical.png",
+      "imposted": true
+   },
+   {
+      "type": "VERTICAL-IMPOST-LEFT-TURNED",
+      "image": "/images/window-renders/impost-vertical-left-turned.png",
+      "imposted": true
+   },
+   {
+      "type": "VERTICAL-IMPOST-LEFT-TURNED-FOLDED",
+      "image": "/images/window-renders/impost-vertical-left-turned-folded.png",
+      "imposted": true
+   },
+   {
+      "type": "VERTICAL-IMPOST-RIGHT-TURNED",
+      "image": "/images/window-renders/impost-vertical-right-turned.png",
+      "imposted": true
+   },
+   {
+      "type": "VERTICAL-IMPOST-RIGHT-TURNED-FOLDED",
+      "image": "/images/window-renders/impost-vertical-right-turned-folded.png",
+      "imposted": true
+   },
+   {
+      "type": "VERTICAL-IMPOST-LEFT-TURNED-RIGHT-TURNED-FOLDED",
+      "image": "/images/window-renders/impost-vertical-left-turned-right-turned-folded.png",
+      "imposted": true
+   },
+   {
+      "type": "VERTICAL-IMPOST-LEFT-TURNED-FOLDED-RIGHT-TURNED-FOLDED",
+      "image": "/images/window-renders/impost-vertical-left-turned-folded-right-turned-folded.png",
+      "imposted": true
+   }
+]
